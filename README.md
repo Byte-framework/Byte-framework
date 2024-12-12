@@ -8,7 +8,7 @@
 
 ## 🧪 About Me  
 
-- 📚 I completed my Master’s project on the **photophysics and non-adiabatic dynamics** of biomolecules, culminating in a publication in *The Journal of Physical Chemistry A*.  
+- 📚 I completed my Master’s project on the **photophysics and non-adiabatic dynamics** of biomolecules, culminating in a publication in [*The Journal of Physical Chemistry A*](https://doi.org/10.1021/acs.jpca.4c03948).  
 - 🛠️ My research experiences have equipped me with strong analytical, computational, and experimental chemistry skills.  
 - 🌍 I’m enthusiastic about bridging **chemistry** and **technology** to drive innovation in research and development.  
 
