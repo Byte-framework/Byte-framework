@@ -18,7 +18,7 @@
 
 ### Chemistry Tools  
 
-| **Visualization & Analysis**                  | **Simulation & Modeling**             |  
+| **Visualization & Analysis**                  | **Ab-initio, Simulation & Modeling Programs**             |  
 |-----------------------------------------------|----------------------------------------|  
 |  ![Molden](https://img.shields.io/badge/Molden-blue?style=for-the-badge)|  ![Molpro](https://img.shields.io/badge/Molpro-red?style=for-the-badge) |  
 | ![VMD](https://img.shields.io/badge/VMD-yellow?style=for-the-badge) | ![QChem](https://img.shields.io/badge/QChem-orange?style=for-the-badge)  |  
