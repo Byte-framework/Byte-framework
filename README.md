@@ -41,7 +41,7 @@
 
 - **Image Classifier**: Implemented using FCNN and CNN in Python.  
 - **Hartree-Fock Code**: For calculating the ground state energy of a water molecule.
-- **Molecular Dynamics Simulation**: Coded in Python to study MD of 500 noble gas molecule in FCC lattice.  
+- **Molecular Dynamics Simulation**: Coded in Python to study MD of 500 noble gas molecules in FCC lattice.  
 
 ---
 
